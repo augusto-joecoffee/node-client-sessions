@@ -1,11 +1,11 @@
 {
   "name": "encrypted-client-sessions",
   "version": "1.0.0",
-  "description": "secure sessions stored in cookies",
+  "description": "This is a fork of mozilla/node-client-sessions",
   "main": "lib/client-sessions",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/node-client-sessions"
+    "url": "https://github.com/augusto-joecoffee/node-client-sessions.git"
   },
   "dependencies": {
     "cookies": "^0.8.0"
@@ -26,5 +26,4 @@
     "node": ">= 0.8.0"
   },
   "license": "MPL-2.0",
-  "bugs": "https://github.com/mozilla/node-client-sessions/issues"
 }
